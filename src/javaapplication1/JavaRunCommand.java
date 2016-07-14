@@ -8,7 +8,7 @@ package javaapplication1;
 import java.io.*;
 /**
  *
- * @author root
+ * @author somebody
  */
 public class JavaRunCommand 
 {

@@ -10,7 +10,7 @@ import java.util.regex.Pattern;
 
 /**
  *
- * @author root
+ * @author somebody
  */
 public class RegExTester
 {
